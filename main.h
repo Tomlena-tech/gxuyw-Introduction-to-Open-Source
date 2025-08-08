@@ -10,7 +10,9 @@
 *It is included in the main.c file to provide the necessary functions.
 */
 void print_array(int *a, int n);
-
+int _putchar(char c);
+void putchar(char c);
+void print_alphabet(void)
 
 
 #endif 
