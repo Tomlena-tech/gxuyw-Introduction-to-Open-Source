@@ -3,8 +3,7 @@
 
 /**
 * Write a fnction who printed N elements of an array
-** @array: pointer to the array
-* @size: size of the array
+** @a: pointer to the array
 * @n: number of elements to print
 */
 void print_array(int *a, int n)
@@ -19,4 +18,3 @@ void print_array(int *a, int n)
     }
     printf("\n");
 }
-
