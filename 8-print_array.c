@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
-* Write a fnction who printed N elements of an array
+* Write a fonction who printed N elements of an array
 ** @a: pointer to the array
 * @n: number of elements to print
 */
