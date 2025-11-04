@@ -12,8 +12,8 @@
 void print_array(int *a, int n);
 int _putchar(char c);
 void putchar(char c);
-void print_alphabet(void)
+void print_alphabet(void);
 
 
-#endif 
+#endif
 

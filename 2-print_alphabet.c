@@ -1,16 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "main.h"
 
 /**
-*Print Alphabet in order
-*
-*
-*
-*
-*
+ * print_alphabet - Print Alphabet in order
+ *
+ * Description: Prints the alphabet from a to z in lowercase
+ *
+ * Return: void
  */
-
-int main(void)
+void print_alphabet(void)
 {
     char c;
 
